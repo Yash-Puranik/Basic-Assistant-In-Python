@@ -6,7 +6,8 @@ Hope You Like It!
 
 # Required Packages #
 
-pip install pyttsx3
+# pip install pyttsx3
+
 
 Webbrowser Library Comes In-Built
 
